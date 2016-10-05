@@ -1,0 +1,4 @@
+The donations, sorted in descending order are: 
+100 100 25 25 15 10 10 10 10 5 5 5 5 5 5 
+The donations, in their original order are: 
+5 100 5 25 10 5 25 5 5 100 10 15 10 5 10 
